@@ -1,0 +1,7 @@
+{
+    "name":"demo",
+    "app": {
+    "restMappings": "/rest/*,/api/*"
+  }
+    
+}

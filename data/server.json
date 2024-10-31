@@ -1,0 +1,8 @@
+{
+    "name":"dataset",
+    "web":{
+        "rewrites":{
+            "enable":"true"
+        }
+    }
+}
